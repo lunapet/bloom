@@ -1,0 +1,50 @@
+[
+  {
+    "id": "starter-0",
+    "category": "Wellness",
+    "title": "Build a consistent morning routine",
+    "priority": "Medium",
+    "next": "Choose one small next step",
+    "status": "Not started"
+  },
+  {
+    "id": "starter-1",
+    "category": "Wellness",
+    "title": "Create a restful evening routine",
+    "priority": "Medium",
+    "next": "Choose one small next step",
+    "status": "Not started"
+  },
+  {
+    "id": "starter-2",
+    "category": "Fitness",
+    "title": "Track movement and recovery",
+    "priority": "Medium",
+    "next": "Choose one small next step",
+    "status": "Not started"
+  },
+  {
+    "id": "starter-3",
+    "category": "Self-care",
+    "title": "Set a weekly self-care intention",
+    "priority": "Medium",
+    "next": "Choose one small next step",
+    "status": "Not started"
+  },
+  {
+    "id": "starter-4",
+    "category": "Medical",
+    "title": "Review upcoming appointments",
+    "priority": "Medium",
+    "next": "Choose one small next step",
+    "status": "Not started"
+  },
+  {
+    "id": "starter-5",
+    "category": "Goals",
+    "title": "Write a personal goal for 2027",
+    "priority": "Medium",
+    "next": "Choose one small next step",
+    "status": "Not started"
+  }
+]
