@@ -3,3 +3,7 @@
 
 .nav[hidden]{display:none!important}
 #lock-error{color:#8d3e3e;font-size:0.9rem;margin-top:0.7rem}
+
+.med-record{margin-bottom:12px}.med-record h3{margin:5px 0 12px}.med-detail{padding:9px 0;border-bottom:1px solid #e8e0d7;display:grid;gap:4px}.med-detail span{font-size:11px;color:#796e64}.med-detail strong{font-size:14px;font-weight:500;white-space:pre-wrap;overflow-wrap:anywhere}.med-record .actions{margin-top:14px}.filters{overflow-x:auto;max-width:100%;padding-bottom:6px}.field input[type=search]{width:100%}
+.binder-link{width:100%;border:0;background:transparent;text-align:left;cursor:pointer;color:inherit;font:inherit;padding:14px 0;}
+.binder-link + .binder-link{border-top:1px solid #e6dfd6;}
